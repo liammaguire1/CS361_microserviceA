@@ -14,5 +14,5 @@ An example is included below:
 vehicle_info = requests.get('http://127.0.0.1:3001/lookup_vehicle/2T1AE00E9PC017543').json()
 
 ## UML Diagram
-[UML Diagram](./Microservice%20A%20UML.jpg)
+![UML Diagram](./Microservice%20A%20UML.jpg)
 Actor blocked by VisualParadigm logo says "NHTSA API"
